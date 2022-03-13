@@ -1,20 +1,20 @@
 # Freedesk
 
-English | [简体中文](./README.CN.md)
+简体中文 | [English](./README.md)
 
-I'd like to have a desk that konws myself and I can talk with.
+做一个懂我的桌子
 
 
-## Components
+## 组件
 
 - [freedesk-cv](https://github.com/DevecorSoft/freedesk-cv)
 - [freedeck-rt](https://github.com/DevecorSoft/freedesk-rt)
 
-## Overview
+## 概述
 
-### APIs
+### 接口设计
 
-#### APIs from freedesk-rt
+#### freedesk-rt
 
 - raises
 - lowers
@@ -23,7 +23,7 @@ I'd like to have a desk that konws myself and I can talk with.
   - on_bottom
 - height ?
 
-#### APIs from freedesk-cv
+#### freedesk-cv
 
 - status
   - closing
@@ -55,3 +55,8 @@ flowchart LR
   subgraph C
   end
 ```
+
+### WIP
+
+- 两张图像间关系：平移还是旋转？
+- 随动控制系统
