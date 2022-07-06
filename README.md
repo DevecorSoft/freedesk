@@ -18,6 +18,7 @@ I'd like to have a desk that konws myself and I can talk with.
 
 - raises
 - lowers
+- lock
 - status
   - on_top
   - on_bottom
